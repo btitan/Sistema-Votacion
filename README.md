@@ -25,7 +25,7 @@ Voto en el Extranjero: Facilita el voto de ciudadanos que residen en el extranje
 
 Acceso para Personas con Discapacidades: Ofrece opciones de accesibilidad, como votación por voz o braille, para garantizar que las personas con discapacidades también puedan participar plenamente.
 
- 
+ Primbero debera ingresar a src/svotacion y ahi encontrar todo el proyecto
 
  
 Deberá ingresar y con el siguiente usuario  jefe@umg.com contraseña: algoritmos
